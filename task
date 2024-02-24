@@ -1,1 +1,1 @@
-
+fmt.Printf("%.6f\n", float64(posCount)/float64(total))
